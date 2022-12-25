@@ -173,7 +173,6 @@ def main():
             right_paddle.reset()
             left_score = 0
             right_score = 0
-    print("End game")
     pygame.quit()
 
 if __name__ == '__main__':
